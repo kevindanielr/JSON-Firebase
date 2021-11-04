@@ -1,0 +1,2902 @@
+[
+        {
+            "food": "aguacate arugula",
+            "type": "desayuno",
+            "itemID": 0
+        },
+        {
+            "food": "aguacate tomate",
+            "type": "desayuno",
+            "itemID": 1
+        },
+        {
+            "food": "aguacate untado",
+            "type": "desayuno",
+            "itemID": 2
+        },
+        {
+            "food": "aguacate untado huevo",
+            "type": "desayuno",
+            "itemID": 3
+        },
+        {
+            "food": "aoa bajos",
+            "type": "desayuno",
+            "itemID": 4
+        },
+        {
+            "food": "arugula aguacate",
+            "type": "desayuno",
+            "itemID": 5
+        },
+        {
+            "food": "arugula aguacate tomate",
+            "type": "desayuno",
+            "itemID": 6
+        },
+        {
+            "food": "arugula tomates",
+            "type": "desayuno",
+            "itemID": 7
+        },
+        {
+            "food": "arugula tomates cherry",
+            "type": "desayuno",
+            "itemID": 8
+        },
+        {
+            "food": "avocado toast",
+            "type": "desayuno",
+            "itemID": 9
+        },
+        {
+            "food": "avocado toast pan",
+            "type": "desayuno",
+            "itemID": 10
+        },
+        {
+            "food": "avocado toast rebanada",
+            "type": "desayuno",
+            "itemID": 11
+        },
+        {
+            "food": "banana pancakes",
+            "type": "desayuno",
+            "itemID": 12
+        },
+        {
+            "food": "butter oats",
+            "type": "desayuno",
+            "itemID": 13
+        },
+        {
+            "food": "cda miel",
+            "type": "desayuno",
+            "itemID": 14
+        },
+        {
+            "food": "cda miel abeja",
+            "type": "desayuno",
+            "itemID": 15
+        },
+        {
+            "food": "cda queso",
+            "type": "desayuno",
+            "itemID": 16
+        },
+        {
+            "food": "cdas granola",
+            "type": "desayuno",
+            "itemID": 17
+        },
+        {
+            "food": "cdas queso",
+            "type": "desayuno",
+            "itemID": 18
+        },
+        {
+            "food": "chilaco fit",
+            "type": "desayuno",
+            "itemID": 19
+        },
+        {
+            "food": "chilacos fit",
+            "type": "desayuno",
+            "itemID": 20
+        },
+        {
+            "food": "choco banana",
+            "type": "desayuno",
+            "itemID": 21
+        },
+        {
+            "food": "choco banana pancakes",
+            "type": "desayuno",
+            "itemID": 22
+        },
+        {
+            "food": "chocolate mugcake",
+            "type": "desayuno",
+            "itemID": 23
+        },
+        {
+            "food": "claras huevo",
+            "type": "desayuno",
+            "itemID": 24
+        },
+        {
+            "food": "clarita pinon",
+            "type": "desayuno",
+            "itemID": 25
+        },
+        {
+            "food": "el motuleno",
+            "type": "desayuno",
+            "itemID": 26
+        },
+        {
+            "food": "encima pera",
+            "type": "desayuno",
+            "itemID": 27
+        },
+        {
+            "food": "estrellado arugula",
+            "type": "desayuno",
+            "itemID": 28
+        },
+        {
+            "food": "estrellado arugula aguacate",
+            "type": "desayuno",
+            "itemID": 29
+        },
+        {
+            "food": "estrellado encima",
+            "type": "desayuno",
+            "itemID": 30
+        },
+        {
+            "food": "fit french",
+            "type": "desayuno",
+            "itemID": 31
+        },
+        {
+            "food": "fit french toast",
+            "type": "desayuno",
+            "itemID": 32
+        },
+        {
+            "food": "frances fit",
+            "type": "desayuno",
+            "itemID": 33
+        },
+        {
+            "food": "french toast",
+            "type": "desayuno",
+            "itemID": 34
+        },
+        {
+            "food": "frijoles enteros",
+            "type": "desayuno",
+            "itemID": 35
+        },
+        {
+            "food": "galletas arroz",
+            "type": "desayuno",
+            "itemID": 36
+        },
+        {
+            "food": "good mood",
+            "type": "desayuno",
+            "itemID": 37
+        },
+        {
+            "food": "good mood avocado",
+            "type": "desayuno",
+            "itemID": 38
+        },
+        {
+            "food": "good morning",
+            "type": "desayuno",
+            "itemID": 39
+        },
+        {
+            "food": "good morning chia",
+            "type": "desayuno",
+            "itemID": 40
+        },
+        {
+            "food": "huevito revuelto",
+            "type": "desayuno",
+            "itemID": 41
+        },
+        {
+            "food": "huevo estrellado",
+            "type": "desayuno",
+            "itemID": 42
+        },
+        {
+            "food": "huevo estrellado arugula",
+            "type": "desayuno",
+            "itemID": 43
+        },
+        {
+            "food": "huevo estrellado encima",
+            "type": "desayuno",
+            "itemID": 44
+        },
+        {
+            "food": "huevos rancheros",
+            "type": "desayuno",
+            "itemID": 45
+        },
+        {
+            "food": "integral aguacate",
+            "type": "desayuno",
+            "itemID": 46
+        },
+        {
+            "food": "integral aguacate untado",
+            "type": "desayuno",
+            "itemID": 47
+        },
+        {
+            "food": "integral huevo",
+            "type": "desayuno",
+            "itemID": 48
+        },
+        {
+            "food": "integral huevo estrellado",
+            "type": "desayuno",
+            "itemID": 49
+        },
+        {
+            "food": "integral tostado",
+            "type": "desayuno",
+            "itemID": 50
+        },
+        {
+            "food": "jamon pavo",
+            "type": "desayuno",
+            "itemID": 51
+        },
+        {
+            "food": "jitomates cherry",
+            "type": "desayuno",
+            "itemID": 52
+        },
+        {
+            "food": "leche almendras",
+            "type": "desayuno",
+            "itemID": 53
+        },
+        {
+            "food": "miel abeja",
+            "type": "desayuno",
+            "itemID": 54
+        },
+        {
+            "food": "mood avocado",
+            "type": "desayuno",
+            "itemID": 55
+        },
+        {
+            "food": "mood avocado toast",
+            "type": "desayuno",
+            "itemID": 56
+        },
+        {
+            "food": "morning chia",
+            "type": "desayuno",
+            "itemID": 57
+        },
+        {
+            "food": "mousse moccaccino",
+            "type": "desayuno",
+            "itemID": 58
+        },
+        {
+            "food": "pan frances",
+            "type": "desayuno",
+            "itemID": 59
+        },
+        {
+            "food": "pan frances fit",
+            "type": "desayuno",
+            "itemID": 60
+        },
+        {
+            "food": "pan integral",
+            "type": "desayuno",
+            "itemID": 61
+        },
+        {
+            "food": "pan integral aguacate",
+            "type": "desayuno",
+            "itemID": 62
+        },
+        {
+            "food": "pan integral huevo",
+            "type": "desayuno",
+            "itemID": 63
+        },
+        {
+            "food": "pan integral tostado",
+            "type": "desayuno",
+            "itemID": 64
+        },
+        {
+            "food": "panini olivo",
+            "type": "desayuno",
+            "itemID": 65
+        },
+        {
+            "food": "peanut butter",
+            "type": "desayuno",
+            "itemID": 66
+        },
+        {
+            "food": "peanut butter oats",
+            "type": "desayuno",
+            "itemID": 67
+        },
+        {
+            "food": "pechuga pavo",
+            "type": "desayuno",
+            "itemID": 68
+        },
+        {
+            "food": "pera manzana",
+            "type": "desayuno",
+            "itemID": 69
+        },
+        {
+            "food": "queso cabra",
+            "type": "desayuno",
+            "itemID": 70
+        },
+        {
+            "food": "queso cottage",
+            "type": "desayuno",
+            "itemID": 71
+        },
+        {
+            "food": "queso panela",
+            "type": "desayuno",
+            "itemID": 72
+        },
+        {
+            "food": "rebanada jamon",
+            "type": "desayuno",
+            "itemID": 73
+        },
+        {
+            "food": "rebanada jamon pavo",
+            "type": "desayuno",
+            "itemID": 74
+        },
+        {
+            "food": "rebanada pan",
+            "type": "desayuno",
+            "itemID": 75
+        },
+        {
+            "food": "rebanada pan integral",
+            "type": "desayuno",
+            "itemID": 76
+        },
+        {
+            "food": "rebanadas pan",
+            "type": "desayuno",
+            "itemID": 77
+        },
+        {
+            "food": "rebanadas pan integral",
+            "type": "desayuno",
+            "itemID": 78
+        },
+        {
+            "food": "rebanadas pechuga",
+            "type": "desayuno",
+            "itemID": 79
+        },
+        {
+            "food": "rebanadas pechuga pavo",
+            "type": "desayuno",
+            "itemID": 80
+        },
+        {
+            "food": "red velvet",
+            "type": "desayuno",
+            "itemID": 81
+        },
+        {
+            "food": "shake snickers",
+            "type": "desayuno",
+            "itemID": 82
+        },
+        {
+            "food": "sin azucar",
+            "type": "desayuno",
+            "itemID": 83
+        },
+        {
+            "food": "sin grasa",
+            "type": "desayuno",
+            "itemID": 84
+        },
+        {
+            "food": "sin proteina",
+            "type": "desayuno",
+            "itemID": 85
+        },
+        {
+            "food": "smoothie good",
+            "type": "desayuno",
+            "itemID": 86
+        },
+        {
+            "food": "smoothie good mood",
+            "type": "desayuno",
+            "itemID": 87
+        },
+        {
+            "food": "smoothie snickers",
+            "type": "desayuno",
+            "itemID": 88
+        },
+        {
+            "food": "tiramisu leches",
+            "type": "desayuno",
+            "itemID": 89
+        },
+        {
+            "food": "toast pan",
+            "type": "desayuno",
+            "itemID": 90
+        },
+        {
+            "food": "toast pan integral",
+            "type": "desayuno",
+            "itemID": 91
+        },
+        {
+            "food": "toast rebanada",
+            "type": "desayuno",
+            "itemID": 92
+        },
+        {
+            "food": "toast rebanada pan",
+            "type": "desayuno",
+            "itemID": 93
+        },
+        {
+            "food": "tomates cherry",
+            "type": "desayuno",
+            "itemID": 94
+        },
+        {
+            "food": "untado huevo",
+            "type": "desayuno",
+            "itemID": 95
+        },
+        {
+            "food": "untado huevo estrellado",
+            "type": "desayuno",
+            "itemID": 96
+        },
+        {
+            "food": "yogurt griego",
+            "type": "desayuno",
+            "itemID": 97
+        },
+        {
+            "food": "baby carrots",
+            "type": "morning snack",
+            "itemID": 98
+        },
+        {
+            "food": "caliente sabor",
+            "type": "morning snack",
+            "itemID": 99
+        },
+        {
+            "food": "caliente sabor preferencia",
+            "type": "morning snack",
+            "itemID": 100
+        },
+        {
+            "food": "cda miel",
+            "type": "morning snack",
+            "itemID": 101
+        },
+        {
+            "food": "cda miel abeja",
+            "type": "morning snack",
+            "itemID": 102
+        },
+        {
+            "food": "cdas hummus",
+            "type": "morning snack",
+            "itemID": 103
+        },
+        {
+            "food": "fresas stevia",
+            "type": "morning snack",
+            "itemID": 104
+        },
+        {
+            "food": "fresas stevia canela",
+            "type": "morning snack",
+            "itemID": 105
+        },
+        {
+            "food": "fruta preferencia",
+            "type": "morning snack",
+            "itemID": 106
+        },
+        {
+            "food": "galletas sanisimo",
+            "type": "morning snack",
+            "itemID": 107
+        },
+        {
+            "food": "gelatina light",
+            "type": "morning snack",
+            "itemID": 108
+        },
+        {
+            "food": "jicama limon",
+            "type": "morning snack",
+            "itemID": 109
+        },
+        {
+            "food": "jicama limon sal",
+            "type": "morning snack",
+            "itemID": 110
+        },
+        {
+            "food": "jicamas limon",
+            "type": "morning snack",
+            "itemID": 111
+        },
+        {
+            "food": "jicamas limon sal",
+            "type": "morning snack",
+            "itemID": 112
+        },
+        {
+            "food": "las siguientes",
+            "type": "morning snack",
+            "itemID": 113
+        },
+        {
+            "food": "las siguientes opciones",
+            "type": "morning snack",
+            "itemID": 114
+        },
+        {
+            "food": "limon sal",
+            "type": "morning snack",
+            "itemID": 115
+        },
+        {
+            "food": "limon sal tajin",
+            "type": "morning snack",
+            "itemID": 116
+        },
+        {
+            "food": "limon sal zanahoria",
+            "type": "morning snack",
+            "itemID": 117
+        },
+        {
+            "food": "limon tajin",
+            "type": "morning snack",
+            "itemID": 118
+        },
+        {
+            "food": "manzana pina",
+            "type": "morning snack",
+            "itemID": 119
+        },
+        {
+            "food": "manzana verde",
+            "type": "morning snack",
+            "itemID": 120
+        },
+        {
+            "food": "melon sandia",
+            "type": "morning snack",
+            "itemID": 121
+        },
+        {
+            "food": "miel abeja",
+            "type": "morning snack",
+            "itemID": 122
+        },
+        {
+            "food": "palomitas naturales",
+            "type": "morning snack",
+            "itemID": 123
+        },
+        {
+            "food": "papaya melon",
+            "type": "morning snack",
+            "itemID": 124
+        },
+        {
+            "food": "paquete galletas",
+            "type": "morning snack",
+            "itemID": 125
+        },
+        {
+            "food": "paquete galletas sanisimo",
+            "type": "morning snack",
+            "itemID": 126
+        },
+        {
+            "food": "pepino limon",
+            "type": "morning snack",
+            "itemID": 127
+        },
+        {
+            "food": "pepino limon sal",
+            "type": "morning snack",
+            "itemID": 128
+        },
+        {
+            "food": "pepinos limon",
+            "type": "morning snack",
+            "itemID": 129
+        },
+        {
+            "food": "pina papaya",
+            "type": "morning snack",
+            "itemID": 130
+        },
+        {
+            "food": "rallada limon",
+            "type": "morning snack",
+            "itemID": 131
+        },
+        {
+            "food": "rice cakes",
+            "type": "morning snack",
+            "itemID": 132
+        },
+        {
+            "food": "sabor preferencia",
+            "type": "morning snack",
+            "itemID": 133
+        },
+        {
+            "food": "sal tajin",
+            "type": "morning snack",
+            "itemID": 134
+        },
+        {
+            "food": "sal tajin te",
+            "type": "morning snack",
+            "itemID": 135
+        },
+        {
+            "food": "sal zanahoria",
+            "type": "morning snack",
+            "itemID": 136
+        },
+        {
+            "food": "sal zanahoria rallada",
+            "type": "morning snack",
+            "itemID": 137
+        },
+        {
+            "food": "sandia fresas",
+            "type": "morning snack",
+            "itemID": 138
+        },
+        {
+            "food": "siguientes opciones",
+            "type": "morning snack",
+            "itemID": 139
+        },
+        {
+            "food": "sin azucar",
+            "type": "morning snack",
+            "itemID": 140
+        },
+        {
+            "food": "stevia canela",
+            "type": "morning snack",
+            "itemID": 141
+        },
+        {
+            "food": "tajin te",
+            "type": "morning snack",
+            "itemID": 142
+        },
+        {
+            "food": "tajin te verde",
+            "type": "morning snack",
+            "itemID": 143
+        },
+        {
+            "food": "tazas palomitas",
+            "type": "morning snack",
+            "itemID": 144
+        },
+        {
+            "food": "tazas palomitas naturales",
+            "type": "morning snack",
+            "itemID": 145
+        },
+        {
+            "food": "te caliente",
+            "type": "morning snack",
+            "itemID": 146
+        },
+        {
+            "food": "te caliente sabor",
+            "type": "morning snack",
+            "itemID": 147
+        },
+        {
+            "food": "te verde",
+            "type": "morning snack",
+            "itemID": 148
+        },
+        {
+            "food": "yogurt griego",
+            "type": "morning snack",
+            "itemID": 149
+        },
+        {
+            "food": "zanahoria rallada",
+            "type": "morning snack",
+            "itemID": 150
+        },
+        {
+            "food": "zanahoria rallada limon",
+            "type": "morning snack",
+            "itemID": 151
+        },
+        {
+            "food": "100 gramos",
+            "type": "almuerzo",
+            "itemID": 152
+        },
+        {
+            "food": "120 gramos",
+            "type": "almuerzo",
+            "itemID": 153
+        },
+        {
+            "food": "aceite oliva",
+            "type": "almuerzo",
+            "itemID": 154
+        },
+        {
+            "food": "aceite oliva aguacate",
+            "type": "almuerzo",
+            "itemID": 155
+        },
+        {
+            "food": "aderezo aceite",
+            "type": "almuerzo",
+            "itemID": 156
+        },
+        {
+            "food": "aderezo aceite oliva",
+            "type": "almuerzo",
+            "itemID": 157
+        },
+        {
+            "food": "aguacate sopa",
+            "type": "almuerzo",
+            "itemID": 158
+        },
+        {
+            "food": "aguacate sopa verduras",
+            "type": "almuerzo",
+            "itemID": 159
+        },
+        {
+            "food": "al vapor",
+            "type": "almuerzo",
+            "itemID": 160
+        },
+        {
+            "food": "al vapor asadas",
+            "type": "almuerzo",
+            "itemID": 161
+        },
+        {
+            "food": "arroz pasta",
+            "type": "almuerzo",
+            "itemID": 162
+        },
+        {
+            "food": "arroz verduras",
+            "type": "almuerzo",
+            "itemID": 163
+        },
+        {
+            "food": "arroz verduras teriyaki",
+            "type": "almuerzo",
+            "itemID": 164
+        },
+        {
+            "food": "asadas cocitemIDas",
+            "type": "almuerzo",
+            "itemID": 165
+        },
+        {
+            "food": "asadas cocitemIDas guisadas",
+            "type": "almuerzo",
+            "itemID": 166
+        },
+        {
+            "food": "asado guisado",
+            "type": "almuerzo",
+            "itemID": 167
+        },
+        {
+            "food": "asado guisado salsa",
+            "type": "almuerzo",
+            "itemID": 168
+        },
+        {
+            "food": "asia bowl",
+            "type": "almuerzo",
+            "itemID": 169
+        },
+        {
+            "food": "asia bowl pollo",
+            "type": "almuerzo",
+            "itemID": 170
+        },
+        {
+            "food": "bowl pollo",
+            "type": "almuerzo",
+            "itemID": 171
+        },
+        {
+            "food": "bowl pollo curry",
+            "type": "almuerzo",
+            "itemID": 172
+        },
+        {
+            "food": "carne roja",
+            "type": "almuerzo",
+            "itemID": 173
+        },
+        {
+            "food": "carne roja sin",
+            "type": "almuerzo",
+            "itemID": 174
+        },
+        {
+            "food": "cda aceite",
+            "type": "almuerzo",
+            "itemID": 175
+        },
+        {
+            "food": "cda aceite oliva",
+            "type": "almuerzo",
+            "itemID": 176
+        },
+        {
+            "food": "chick nuts",
+            "type": "almuerzo",
+            "itemID": 177
+        },
+        {
+            "food": "chick nuts arroz",
+            "type": "almuerzo",
+            "itemID": 178
+        },
+        {
+            "food": "cocitemIDas guisadas",
+            "type": "almuerzo",
+            "itemID": 179
+        },
+        {
+            "food": "cocitemIDas guisadas crudas",
+            "type": "almuerzo",
+            "itemID": 180
+        },
+        {
+            "food": "confetti quinoa",
+            "type": "almuerzo",
+            "itemID": 181
+        },
+        {
+            "food": "crema verduras",
+            "type": "almuerzo",
+            "itemID": 182
+        },
+        {
+            "food": "crema verduras sin",
+            "type": "almuerzo",
+            "itemID": 183
+        },
+        {
+            "food": "crudas carbohitemIDrato",
+            "type": "almuerzo",
+            "itemID": 184
+        },
+        {
+            "food": "dont go",
+            "type": "almuerzo",
+            "itemID": 185
+        },
+        {
+            "food": "dont go nuts",
+            "type": "almuerzo",
+            "itemID": 186
+        },
+        {
+            "food": "el frijolero",
+            "type": "almuerzo",
+            "itemID": 187
+        },
+        {
+            "food": "ensalada dont",
+            "type": "almuerzo",
+            "itemID": 188
+        },
+        {
+            "food": "ensalada dont go",
+            "type": "almuerzo",
+            "itemID": 189
+        },
+        {
+            "food": "ensalada verduras",
+            "type": "almuerzo",
+            "itemID": 190
+        },
+        {
+            "food": "ensalada verduras verdes",
+            "type": "almuerzo",
+            "itemID": 191
+        },
+        {
+            "food": "especias verduras",
+            "type": "almuerzo",
+            "itemID": 192
+        },
+        {
+            "food": "especias verduras al",
+            "type": "almuerzo",
+            "itemID": 193
+        },
+        {
+            "food": "estas opciones",
+            "type": "almuerzo",
+            "itemID": 194
+        },
+        {
+            "food": "estas opciones oz",
+            "type": "almuerzo",
+            "itemID": 195
+        },
+        {
+            "food": "galletas sanisimo",
+            "type": "almuerzo",
+            "itemID": 196
+        },
+        {
+            "food": "go nuts",
+            "type": "almuerzo",
+            "itemID": 197
+        },
+        {
+            "food": "gramos carne",
+            "type": "almuerzo",
+            "itemID": 198
+        },
+        {
+            "food": "gramos pescado",
+            "type": "almuerzo",
+            "itemID": 199
+        },
+        {
+            "food": "grasa plancha",
+            "type": "almuerzo",
+            "itemID": 200
+        },
+        {
+            "food": "grasa plancha horno",
+            "type": "almuerzo",
+            "itemID": 201
+        },
+        {
+            "food": "guisadas crudas",
+            "type": "almuerzo",
+            "itemID": 202
+        },
+        {
+            "food": "guisadas crudas carbohitemIDrato",
+            "type": "almuerzo",
+            "itemID": 203
+        },
+        {
+            "food": "guisado salsa",
+            "type": "almuerzo",
+            "itemID": 204
+        },
+        {
+            "food": "guisado salsa tomate",
+            "type": "almuerzo",
+            "itemID": 205
+        },
+        {
+            "food": "horno asado",
+            "type": "almuerzo",
+            "itemID": 206
+        },
+        {
+            "food": "horno asado guisado",
+            "type": "almuerzo",
+            "itemID": 207
+        },
+        {
+            "food": "lacteo proteina",
+            "type": "almuerzo",
+            "itemID": 208
+        },
+        {
+            "food": "lacteo proteina estas",
+            "type": "almuerzo",
+            "itemID": 209
+        },
+        {
+            "food": "limon sal",
+            "type": "almuerzo",
+            "itemID": 210
+        },
+        {
+            "food": "nuts arroz",
+            "type": "almuerzo",
+            "itemID": 211
+        },
+        {
+            "food": "oliva aguacate",
+            "type": "almuerzo",
+            "itemID": 212
+        },
+        {
+            "food": "oliva aguacate sopa",
+            "type": "almuerzo",
+            "itemID": 213
+        },
+        {
+            "food": "opciones oz",
+            "type": "almuerzo",
+            "itemID": 214
+        },
+        {
+            "food": "opciones oz pescado",
+            "type": "almuerzo",
+            "itemID": 215
+        },
+        {
+            "food": "oz pescado",
+            "type": "almuerzo",
+            "itemID": 216
+        },
+        {
+            "food": "oz pescado pollo",
+            "type": "almuerzo",
+            "itemID": 217
+        },
+        {
+            "food": "pan integral",
+            "type": "almuerzo",
+            "itemID": 218
+        },
+        {
+            "food": "paquete galletas",
+            "type": "almuerzo",
+            "itemID": 219
+        },
+        {
+            "food": "para acompanar",
+            "type": "almuerzo",
+            "itemID": 220
+        },
+        {
+            "food": "pasta integral",
+            "type": "almuerzo",
+            "itemID": 221
+        },
+        {
+            "food": "pasta party",
+            "type": "almuerzo",
+            "itemID": 222
+        },
+        {
+            "food": "pescado pollo",
+            "type": "almuerzo",
+            "itemID": 223
+        },
+        {
+            "food": "pescado pollo carne",
+            "type": "almuerzo",
+            "itemID": 224
+        },
+        {
+            "food": "plancha horno",
+            "type": "almuerzo",
+            "itemID": 225
+        },
+        {
+            "food": "plancha horno asado",
+            "type": "almuerzo",
+            "itemID": 226
+        },
+        {
+            "food": "pollo carne",
+            "type": "almuerzo",
+            "itemID": 227
+        },
+        {
+            "food": "pollo carne roja",
+            "type": "almuerzo",
+            "itemID": 228
+        },
+        {
+            "food": "pollo curry",
+            "type": "almuerzo",
+            "itemID": 229
+        },
+        {
+            "food": "proteina estas",
+            "type": "almuerzo",
+            "itemID": 230
+        },
+        {
+            "food": "proteina estas opciones",
+            "type": "almuerzo",
+            "itemID": 231
+        },
+        {
+            "food": "pueden ser",
+            "type": "almuerzo",
+            "itemID": 232
+        },
+        {
+            "food": "pueden ser ensalada",
+            "type": "almuerzo",
+            "itemID": 233
+        },
+        {
+            "food": "queso cabra",
+            "type": "almuerzo",
+            "itemID": 234
+        },
+        {
+            "food": "roja sin",
+            "type": "almuerzo",
+            "itemID": 235
+        },
+        {
+            "food": "roja sin grasa",
+            "type": "almuerzo",
+            "itemID": 236
+        },
+        {
+            "food": "salsa tomate",
+            "type": "almuerzo",
+            "itemID": 237
+        },
+        {
+            "food": "salsa tomate especias",
+            "type": "almuerzo",
+            "itemID": 238
+        },
+        {
+            "food": "ser ensalada",
+            "type": "almuerzo",
+            "itemID": 239
+        },
+        {
+            "food": "ser ensalada verduras",
+            "type": "almuerzo",
+            "itemID": 240
+        },
+        {
+            "food": "sin grasa",
+            "type": "almuerzo",
+            "itemID": 241
+        },
+        {
+            "food": "sin grasa plancha",
+            "type": "almuerzo",
+            "itemID": 242
+        },
+        {
+            "food": "sin lacteo",
+            "type": "almuerzo",
+            "itemID": 243
+        },
+        {
+            "food": "sin lacteo proteina",
+            "type": "almuerzo",
+            "itemID": 244
+        },
+        {
+            "food": "sopa verduras",
+            "type": "almuerzo",
+            "itemID": 245
+        },
+        {
+            "food": "sopa verduras crema",
+            "type": "almuerzo",
+            "itemID": 246
+        },
+        {
+            "food": "sweet potato",
+            "type": "almuerzo",
+            "itemID": 247
+        },
+        {
+            "food": "tomate especias",
+            "type": "almuerzo",
+            "itemID": 248
+        },
+        {
+            "food": "tomate especias verduras",
+            "type": "almuerzo",
+            "itemID": 249
+        },
+        {
+            "food": "tortilla maiz",
+            "type": "almuerzo",
+            "itemID": 250
+        },
+        {
+            "food": "vapor asadas",
+            "type": "almuerzo",
+            "itemID": 251
+        },
+        {
+            "food": "vapor asadas cocitemIDas",
+            "type": "almuerzo",
+            "itemID": 252
+        },
+        {
+            "food": "verdes aderezo",
+            "type": "almuerzo",
+            "itemID": 253
+        },
+        {
+            "food": "verdes aderezo aceite",
+            "type": "almuerzo",
+            "itemID": 254
+        },
+        {
+            "food": "verduras al",
+            "type": "almuerzo",
+            "itemID": 255
+        },
+        {
+            "food": "verduras al vapor",
+            "type": "almuerzo",
+            "itemID": 256
+        },
+        {
+            "food": "verduras crema",
+            "type": "almuerzo",
+            "itemID": 257
+        },
+        {
+            "food": "verduras crema verduras",
+            "type": "almuerzo",
+            "itemID": 258
+        },
+        {
+            "food": "verduras sin",
+            "type": "almuerzo",
+            "itemID": 259
+        },
+        {
+            "food": "verduras sin lacteo",
+            "type": "almuerzo",
+            "itemID": 260
+        },
+        {
+            "food": "verduras teriyaki",
+            "type": "almuerzo",
+            "itemID": 261
+        },
+        {
+            "food": "verduras verdes",
+            "type": "almuerzo",
+            "itemID": 262
+        },
+        {
+            "food": "verduras verdes aderezo",
+            "type": "almuerzo",
+            "itemID": 263
+        },
+        {
+            "food": "zanahoria rallada",
+            "type": "almuerzo",
+            "itemID": 264
+        },
+        {
+            "food": "10 almendras",
+            "type": "afternoon snack",
+            "itemID": 265
+        },
+        {
+            "food": "10 fresas",
+            "type": "afternoon snack",
+            "itemID": 266
+        },
+        {
+            "food": "10 fresas blueberries",
+            "type": "afternoon snack",
+            "itemID": 267
+        },
+        {
+            "food": "15 mani",
+            "type": "afternoon snack",
+            "itemID": 268
+        },
+        {
+            "food": "20 chocolate",
+            "type": "afternoon snack",
+            "itemID": 269
+        },
+        {
+            "food": "20 chocolate oscuro",
+            "type": "afternoon snack",
+            "itemID": 270
+        },
+        {
+            "food": "20 gramos",
+            "type": "afternoon snack",
+            "itemID": 271
+        },
+        {
+            "food": "20 gramos chocolate",
+            "type": "afternoon snack",
+            "itemID": 272
+        },
+        {
+            "food": "70 cacao",
+            "type": "afternoon snack",
+            "itemID": 273
+        },
+        {
+            "food": "70 cacao cda",
+            "type": "afternoon snack",
+            "itemID": 274
+        },
+        {
+            "food": "almendras 15",
+            "type": "afternoon snack",
+            "itemID": 275
+        },
+        {
+            "food": "almond butter",
+            "type": "afternoon snack",
+            "itemID": 276
+        },
+        {
+            "food": "arandanos sandia",
+            "type": "afternoon snack",
+            "itemID": 277
+        },
+        {
+            "food": "arandanos sandia mango",
+            "type": "afternoon snack",
+            "itemID": 278
+        },
+        {
+            "food": "arroz paquete",
+            "type": "afternoon snack",
+            "itemID": 279
+        },
+        {
+            "food": "avena galletas",
+            "type": "afternoon snack",
+            "itemID": 280
+        },
+        {
+            "food": "avena galletas arroz",
+            "type": "afternoon snack",
+            "itemID": 281
+        },
+        {
+            "food": "ayuno post",
+            "type": "afternoon snack",
+            "itemID": 282
+        },
+        {
+            "food": "ayuno post meal",
+            "type": "afternoon snack",
+            "itemID": 283
+        },
+        {
+            "food": "banana grasa",
+            "type": "afternoon snack",
+            "itemID": 284
+        },
+        {
+            "food": "banana grasa proteina",
+            "type": "afternoon snack",
+            "itemID": 285
+        },
+        {
+            "food": "blueberries arandanos",
+            "type": "afternoon snack",
+            "itemID": 286
+        },
+        {
+            "food": "blueberries arandanos sandia",
+            "type": "afternoon snack",
+            "itemID": 287
+        },
+        {
+            "food": "butter sin",
+            "type": "afternoon snack",
+            "itemID": 288
+        },
+        {
+            "food": "butter sin azucar",
+            "type": "afternoon snack",
+            "itemID": 289
+        },
+        {
+            "food": "cacahuates japoneses",
+            "type": "afternoon snack",
+            "itemID": 290
+        },
+        {
+            "food": "cacao cda",
+            "type": "afternoon snack",
+            "itemID": 291
+        },
+        {
+            "food": "cacao cda peanut",
+            "type": "afternoon snack",
+            "itemID": 292
+        },
+        {
+            "food": "cacao polvo",
+            "type": "afternoon snack",
+            "itemID": 293
+        },
+        {
+            "food": "carlos sin",
+            "type": "afternoon snack",
+            "itemID": 294
+        },
+        {
+            "food": "carlos sin azucar",
+            "type": "afternoon snack",
+            "itemID": 295
+        },
+        {
+            "food": "cda almond",
+            "type": "afternoon snack",
+            "itemID": 296
+        },
+        {
+            "food": "cda almond butter",
+            "type": "afternoon snack",
+            "itemID": 297
+        },
+        {
+            "food": "cda cacao",
+            "type": "afternoon snack",
+            "itemID": 298
+        },
+        {
+            "food": "cda cacao polvo",
+            "type": "afternoon snack",
+            "itemID": 299
+        },
+        {
+            "food": "cda crema",
+            "type": "afternoon snack",
+            "itemID": 300
+        },
+        {
+            "food": "cda crema almendra",
+            "type": "afternoon snack",
+            "itemID": 301
+        },
+        {
+            "food": "cda peanut",
+            "type": "afternoon snack",
+            "itemID": 302
+        },
+        {
+            "food": "cda peanut butter",
+            "type": "afternoon snack",
+            "itemID": 303
+        },
+        {
+            "food": "cdas granola",
+            "type": "afternoon snack",
+            "itemID": 304
+        },
+        {
+            "food": "cdas hummus",
+            "type": "afternoon snack",
+            "itemID": 305
+        },
+        {
+            "food": "cereal sin",
+            "type": "afternoon snack",
+            "itemID": 306
+        },
+        {
+            "food": "cereal sin grasa",
+            "type": "afternoon snack",
+            "itemID": 307
+        },
+        {
+            "food": "chocolate 70",
+            "type": "afternoon snack",
+            "itemID": 308
+        },
+        {
+            "food": "chocolate 70 cacao",
+            "type": "afternoon snack",
+            "itemID": 309
+        },
+        {
+            "food": "chocolate carlos",
+            "type": "afternoon snack",
+            "itemID": 310
+        },
+        {
+            "food": "chocolate carlos sin",
+            "type": "afternoon snack",
+            "itemID": 311
+        },
+        {
+            "food": "chocolate oscuro",
+            "type": "afternoon snack",
+            "itemID": 312
+        },
+        {
+            "food": "chocolate oscuro 70",
+            "type": "afternoon snack",
+            "itemID": 313
+        },
+        {
+            "food": "corn naturales",
+            "type": "afternoon snack",
+            "itemID": 314
+        },
+        {
+            "food": "corn naturales sin",
+            "type": "afternoon snack",
+            "itemID": 315
+        },
+        {
+            "food": "crema almendra",
+            "type": "afternoon snack",
+            "itemID": 316
+        },
+        {
+            "food": "dark chocolate",
+            "type": "afternoon snack",
+            "itemID": 317
+        },
+        {
+            "food": "diferente uno",
+            "type": "afternoon snack",
+            "itemID": 318
+        },
+        {
+            "food": "diferente uno cereal",
+            "type": "afternoon snack",
+            "itemID": 319
+        },
+        {
+            "food": "distintos todos",
+            "type": "afternoon snack",
+            "itemID": 320
+        },
+        {
+            "food": "distintos todos un",
+            "type": "afternoon snack",
+            "itemID": 321
+        },
+        {
+            "food": "en total",
+            "type": "afternoon snack",
+            "itemID": 322
+        },
+        {
+            "food": "en total te",
+            "type": "afternoon snack",
+            "itemID": 323
+        },
+        {
+            "food": "endulzado stevia",
+            "type": "afternoon snack",
+            "itemID": 324
+        },
+        {
+            "food": "equivalente fruta",
+            "type": "afternoon snack",
+            "itemID": 325
+        },
+        {
+            "food": "equivalente fruta manzana",
+            "type": "afternoon snack",
+            "itemID": 326
+        },
+        {
+            "food": "fresas blueberries",
+            "type": "afternoon snack",
+            "itemID": 327
+        },
+        {
+            "food": "fresas blueberries arandanos",
+            "type": "afternoon snack",
+            "itemID": 328
+        },
+        {
+            "food": "fruta manzana",
+            "type": "afternoon snack",
+            "itemID": 329
+        },
+        {
+            "food": "fruta manzana 10",
+            "type": "afternoon snack",
+            "itemID": 330
+        },
+        {
+            "food": "galletas arroz",
+            "type": "afternoon snack",
+            "itemID": 331
+        },
+        {
+            "food": "galletas arroz paquete",
+            "type": "afternoon snack",
+            "itemID": 332
+        },
+        {
+            "food": "galletas sanisimo",
+            "type": "afternoon snack",
+            "itemID": 333
+        },
+        {
+            "food": "galletitas arroz",
+            "type": "afternoon snack",
+            "itemID": 334
+        },
+        {
+            "food": "gelatina light",
+            "type": "afternoon snack",
+            "itemID": 335
+        },
+        {
+            "food": "gramos chocolate",
+            "type": "afternoon snack",
+            "itemID": 336
+        },
+        {
+            "food": "gramos chocolate oscuro",
+            "type": "afternoon snack",
+            "itemID": 337
+        },
+        {
+            "food": "granola rebanada",
+            "type": "afternoon snack",
+            "itemID": 338
+        },
+        {
+            "food": "granola rebanada pan",
+            "type": "afternoon snack",
+            "itemID": 339
+        },
+        {
+            "food": "grasa proteina",
+            "type": "afternoon snack",
+            "itemID": 340
+        },
+        {
+            "food": "grasa proteina 20",
+            "type": "afternoon snack",
+            "itemID": 341
+        },
+        {
+            "food": "grasa tazas",
+            "type": "afternoon snack",
+            "itemID": 342
+        },
+        {
+            "food": "grasa tazas pop",
+            "type": "afternoon snack",
+            "itemID": 343
+        },
+        {
+            "food": "integral avena",
+            "type": "afternoon snack",
+            "itemID": 344
+        },
+        {
+            "food": "integral avena galletas",
+            "type": "afternoon snack",
+            "itemID": 345
+        },
+        {
+            "food": "integral cda",
+            "type": "afternoon snack",
+            "itemID": 346
+        },
+        {
+            "food": "jicama limon",
+            "type": "afternoon snack",
+            "itemID": 347
+        },
+        {
+            "food": "jicama limon sal",
+            "type": "afternoon snack",
+            "itemID": 348
+        },
+        {
+            "food": "jicamas limon",
+            "type": "afternoon snack",
+            "itemID": 349
+        },
+        {
+            "food": "jicamas limon sal",
+            "type": "afternoon snack",
+            "itemID": 350
+        },
+        {
+            "food": "la india",
+            "type": "afternoon snack",
+            "itemID": 351
+        },
+        {
+            "food": "las siguientes",
+            "type": "afternoon snack",
+            "itemID": 352
+        },
+        {
+            "food": "las siguientes opciones",
+            "type": "afternoon snack",
+            "itemID": 353
+        },
+        {
+            "food": "leche almendra",
+            "type": "afternoon snack",
+            "itemID": 354
+        },
+        {
+            "food": "leche almendras",
+            "type": "afternoon snack",
+            "itemID": 355
+        },
+        {
+            "food": "limon sal",
+            "type": "afternoon snack",
+            "itemID": 356
+        },
+        {
+            "food": "limon sal tajin",
+            "type": "afternoon snack",
+            "itemID": 357
+        },
+        {
+            "food": "limon sal te",
+            "type": "afternoon snack",
+            "itemID": 358
+        },
+        {
+            "food": "made brownie",
+            "type": "afternoon snack",
+            "itemID": 359
+        },
+        {
+            "food": "mandarina naranja",
+            "type": "afternoon snack",
+            "itemID": 360
+        },
+        {
+            "food": "mandarina naranja banana",
+            "type": "afternoon snack",
+            "itemID": 361
+        },
+        {
+            "food": "mango pina",
+            "type": "afternoon snack",
+            "itemID": 362
+        },
+        {
+            "food": "mango pina mandarina",
+            "type": "afternoon snack",
+            "itemID": 363
+        },
+        {
+            "food": "mani japones",
+            "type": "afternoon snack",
+            "itemID": 364
+        },
+        {
+            "food": "mantequilla granola",
+            "type": "afternoon snack",
+            "itemID": 365
+        },
+        {
+            "food": "mantequilla granola rebanada",
+            "type": "afternoon snack",
+            "itemID": 366
+        },
+        {
+            "food": "manzana 10",
+            "type": "afternoon snack",
+            "itemID": 367
+        },
+        {
+            "food": "manzana 10 fresas",
+            "type": "afternoon snack",
+            "itemID": 368
+        },
+        {
+            "food": "manzana verde",
+            "type": "afternoon snack",
+            "itemID": 369
+        },
+        {
+            "food": "manzana verde cda",
+            "type": "afternoon snack",
+            "itemID": 370
+        },
+        {
+            "food": "meal solo",
+            "type": "afternoon snack",
+            "itemID": 371
+        },
+        {
+            "food": "meal solo verduras",
+            "type": "afternoon snack",
+            "itemID": 372
+        },
+        {
+            "food": "minute made",
+            "type": "afternoon snack",
+            "itemID": 373
+        },
+        {
+            "food": "minute made brownie",
+            "type": "afternoon snack",
+            "itemID": 374
+        },
+        {
+            "food": "naranja banana",
+            "type": "afternoon snack",
+            "itemID": 375
+        },
+        {
+            "food": "naranja banana grasa",
+            "type": "afternoon snack",
+            "itemID": 376
+        },
+        {
+            "food": "naturales sin",
+            "type": "afternoon snack",
+            "itemID": 377
+        },
+        {
+            "food": "naturales sin mantequilla",
+            "type": "afternoon snack",
+            "itemID": 378
+        },
+        {
+            "food": "nueces la",
+            "type": "afternoon snack",
+            "itemID": 379
+        },
+        {
+            "food": "nueces la india",
+            "type": "afternoon snack",
+            "itemID": 380
+        },
+        {
+            "food": "numero diferente",
+            "type": "afternoon snack",
+            "itemID": 381
+        },
+        {
+            "food": "numero diferente uno",
+            "type": "afternoon snack",
+            "itemID": 382
+        },
+        {
+            "food": "numero en",
+            "type": "afternoon snack",
+            "itemID": 383
+        },
+        {
+            "food": "numero en total",
+            "type": "afternoon snack",
+            "itemID": 384
+        },
+        {
+            "food": "obleas amaranto",
+            "type": "afternoon snack",
+            "itemID": 385
+        },
+        {
+            "food": "opcion numero",
+            "type": "afternoon snack",
+            "itemID": 386
+        },
+        {
+            "food": "opcion numero en",
+            "type": "afternoon snack",
+            "itemID": 387
+        },
+        {
+            "food": "oscuro 70",
+            "type": "afternoon snack",
+            "itemID": 388
+        },
+        {
+            "food": "oscuro 70 cacao",
+            "type": "afternoon snack",
+            "itemID": 389
+        },
+        {
+            "food": "palomitas naturales",
+            "type": "afternoon snack",
+            "itemID": 390
+        },
+        {
+            "food": "pan integral",
+            "type": "afternoon snack",
+            "itemID": 391
+        },
+        {
+            "food": "pan integral avena",
+            "type": "afternoon snack",
+            "itemID": 392
+        },
+        {
+            "food": "pan integral cda",
+            "type": "afternoon snack",
+            "itemID": 393
+        },
+        {
+            "food": "paquete galletas",
+            "type": "afternoon snack",
+            "itemID": 394
+        },
+        {
+            "food": "paquete galletas sanisimo",
+            "type": "afternoon snack",
+            "itemID": 395
+        },
+        {
+            "food": "paquete obleas",
+            "type": "afternoon snack",
+            "itemID": 396
+        },
+        {
+            "food": "peanut butter",
+            "type": "afternoon snack",
+            "itemID": 397
+        },
+        {
+            "food": "peanut butter sin",
+            "type": "afternoon snack",
+            "itemID": 398
+        },
+        {
+            "food": "pepino limon",
+            "type": "afternoon snack",
+            "itemID": 399
+        },
+        {
+            "food": "pepino limon sal",
+            "type": "afternoon snack",
+            "itemID": 400
+        },
+        {
+            "food": "pina mandarina",
+            "type": "afternoon snack",
+            "itemID": 401
+        },
+        {
+            "food": "pina mandarina naranja",
+            "type": "afternoon snack",
+            "itemID": 402
+        },
+        {
+            "food": "pop corn",
+            "type": "afternoon snack",
+            "itemID": 403
+        },
+        {
+            "food": "pop corn naturales",
+            "type": "afternoon snack",
+            "itemID": 404
+        },
+        {
+            "food": "post meal",
+            "type": "afternoon snack",
+            "itemID": 405
+        },
+        {
+            "food": "post meal solo",
+            "type": "afternoon snack",
+            "itemID": 406
+        },
+        {
+            "food": "proteina 20",
+            "type": "afternoon snack",
+            "itemID": 407
+        },
+        {
+            "food": "proteina 20 gramos",
+            "type": "afternoon snack",
+            "itemID": 408
+        },
+        {
+            "food": "rallada limon",
+            "type": "afternoon snack",
+            "itemID": 409
+        },
+        {
+            "food": "rallada limon sal",
+            "type": "afternoon snack",
+            "itemID": 410
+        },
+        {
+            "food": "rebanada pan",
+            "type": "afternoon snack",
+            "itemID": 411
+        },
+        {
+            "food": "rebanada pan integral",
+            "type": "afternoon snack",
+            "itemID": 412
+        },
+        {
+            "food": "rice cakes",
+            "type": "afternoon snack",
+            "itemID": 413
+        },
+        {
+            "food": "sal tajin",
+            "type": "afternoon snack",
+            "itemID": 414
+        },
+        {
+            "food": "sal te",
+            "type": "afternoon snack",
+            "itemID": 415
+        },
+        {
+            "food": "sandia mango",
+            "type": "afternoon snack",
+            "itemID": 416
+        },
+        {
+            "food": "sandia mango pina",
+            "type": "afternoon snack",
+            "itemID": 417
+        },
+        {
+            "food": "semillas maranon",
+            "type": "afternoon snack",
+            "itemID": 418
+        },
+        {
+            "food": "siguientes opciones",
+            "type": "afternoon snack",
+            "itemID": 419
+        },
+        {
+            "food": "sin azucar",
+            "type": "afternoon snack",
+            "itemID": 420
+        },
+        {
+            "food": "sin grasa",
+            "type": "afternoon snack",
+            "itemID": 421
+        },
+        {
+            "food": "sin grasa tazas",
+            "type": "afternoon snack",
+            "itemID": 422
+        },
+        {
+            "food": "sin mantequilla",
+            "type": "afternoon snack",
+            "itemID": 423
+        },
+        {
+            "food": "sin mantequilla granola",
+            "type": "afternoon snack",
+            "itemID": 424
+        },
+        {
+            "food": "slim pop",
+            "type": "afternoon snack",
+            "itemID": 425
+        },
+        {
+            "food": "snacks distintos",
+            "type": "afternoon snack",
+            "itemID": 426
+        },
+        {
+            "food": "snacks distintos todos",
+            "type": "afternoon snack",
+            "itemID": 427
+        },
+        {
+            "food": "solo verduras",
+            "type": "afternoon snack",
+            "itemID": 428
+        },
+        {
+            "food": "solo verduras limon",
+            "type": "afternoon snack",
+            "itemID": 429
+        },
+        {
+            "food": "susalitas enchiladas",
+            "type": "afternoon snack",
+            "itemID": 430
+        },
+        {
+            "food": "tazas pop",
+            "type": "afternoon snack",
+            "itemID": 431
+        },
+        {
+            "food": "tazas pop corn",
+            "type": "afternoon snack",
+            "itemID": 432
+        },
+        {
+            "food": "te chai",
+            "type": "afternoon snack",
+            "itemID": 433
+        },
+        {
+            "food": "te tocan",
+            "type": "afternoon snack",
+            "itemID": 434
+        },
+        {
+            "food": "te tocan snacks",
+            "type": "afternoon snack",
+            "itemID": 435
+        },
+        {
+            "food": "te verde",
+            "type": "afternoon snack",
+            "itemID": 436
+        },
+        {
+            "food": "tocan snacks",
+            "type": "afternoon snack",
+            "itemID": 437
+        },
+        {
+            "food": "tocan snacks distintos",
+            "type": "afternoon snack",
+            "itemID": 438
+        },
+        {
+            "food": "todos un",
+            "type": "afternoon snack",
+            "itemID": 439
+        },
+        {
+            "food": "todos un numero",
+            "type": "afternoon snack",
+            "itemID": 440
+        },
+        {
+            "food": "total te",
+            "type": "afternoon snack",
+            "itemID": 441
+        },
+        {
+            "food": "total te tocan",
+            "type": "afternoon snack",
+            "itemID": 442
+        },
+        {
+            "food": "un numero",
+            "type": "afternoon snack",
+            "itemID": 443
+        },
+        {
+            "food": "un numero diferente",
+            "type": "afternoon snack",
+            "itemID": 444
+        },
+        {
+            "food": "uno cereal",
+            "type": "afternoon snack",
+            "itemID": 445
+        },
+        {
+            "food": "uno cereal sin",
+            "type": "afternoon snack",
+            "itemID": 446
+        },
+        {
+            "food": "verde cda",
+            "type": "afternoon snack",
+            "itemID": 447
+        },
+        {
+            "food": "verduras limon",
+            "type": "afternoon snack",
+            "itemID": 448
+        },
+        {
+            "food": "verduras limon sal",
+            "type": "afternoon snack",
+            "itemID": 449
+        },
+        {
+            "food": "yogurt griego",
+            "type": "afternoon snack",
+            "itemID": 450
+        },
+        {
+            "food": "zanahoria rallada",
+            "type": "afternoon snack",
+            "itemID": 451
+        },
+        {
+            "food": "zanahoria rallada limon",
+            "type": "afternoon snack",
+            "itemID": 452
+        },
+        {
+            "food": "100 gramos",
+            "type": "cena",
+            "itemID": 453
+        },
+        {
+            "food": "100 gramos pollo",
+            "type": "cena",
+            "itemID": 454
+        },
+        {
+            "food": "30 gramos",
+            "type": "cena",
+            "itemID": 455
+        },
+        {
+            "food": "30 gramos queso",
+            "type": "cena",
+            "itemID": 456
+        },
+        {
+            "food": "aceite oliva",
+            "type": "cena",
+            "itemID": 457
+        },
+        {
+            "food": "aceite oliva vinagre",
+            "type": "cena",
+            "itemID": 458
+        },
+        {
+            "food": "aoa mb",
+            "type": "cena",
+            "itemID": 459
+        },
+        {
+            "food": "aoa mb grasa",
+            "type": "cena",
+            "itemID": 460
+        },
+        {
+            "food": "arroz integral",
+            "type": "cena",
+            "itemID": 461
+        },
+        {
+            "food": "arroz vapor",
+            "type": "cena",
+            "itemID": 462
+        },
+        {
+            "food": "arugula aceite",
+            "type": "cena",
+            "itemID": 463
+        },
+        {
+            "food": "arugula aceite oliva",
+            "type": "cena",
+            "itemID": 464
+        },
+        {
+            "food": "asia bowl",
+            "type": "cena",
+            "itemID": 465
+        },
+        {
+            "food": "atun agua",
+            "type": "cena",
+            "itemID": 466
+        },
+        {
+            "food": "atun costa",
+            "type": "cena",
+            "itemID": 467
+        },
+        {
+            "food": "atun costa azul",
+            "type": "cena",
+            "itemID": 468
+        },
+        {
+            "food": "bajo grasa",
+            "type": "cena",
+            "itemID": 469
+        },
+        {
+            "food": "bajo grasa arugula",
+            "type": "cena",
+            "itemID": 470
+        },
+        {
+            "food": "cama espinacas",
+            "type": "cena",
+            "itemID": 471
+        },
+        {
+            "food": "capresse jitomate",
+            "type": "cena",
+            "itemID": 472
+        },
+        {
+            "food": "capresse jitomate bola",
+            "type": "cena",
+            "itemID": 473
+        },
+        {
+            "food": "carne molitemIDa",
+            "type": "cena",
+            "itemID": 474
+        },
+        {
+            "food": "cda aceite",
+            "type": "cena",
+            "itemID": 475
+        },
+        {
+            "food": "cda aceite oliva",
+            "type": "cena",
+            "itemID": 476
+        },
+        {
+            "food": "cda frijoles",
+            "type": "cena",
+            "itemID": 477
+        },
+        {
+            "food": "cdas granola",
+            "type": "cena",
+            "itemID": 478
+        },
+        {
+            "food": "cdas queso",
+            "type": "cena",
+            "itemID": 479
+        },
+        {
+            "food": "claras huevo",
+            "type": "cena",
+            "itemID": 480
+        },
+        {
+            "food": "costa azul",
+            "type": "cena",
+            "itemID": 481
+        },
+        {
+            "food": "crema brocoli",
+            "type": "cena",
+            "itemID": 482
+        },
+        {
+            "food": "desmenuzado no",
+            "type": "cena",
+            "itemID": 483
+        },
+        {
+            "food": "desmenuzado no carbs",
+            "type": "cena",
+            "itemID": 484
+        },
+        {
+            "food": "dont go",
+            "type": "cena",
+            "itemID": 485
+        },
+        {
+            "food": "dont go nuts",
+            "type": "cena",
+            "itemID": 486
+        },
+        {
+            "food": "el meneaito",
+            "type": "cena",
+            "itemID": 487
+        },
+        {
+            "food": "ensalada capresse",
+            "type": "cena",
+            "itemID": 488
+        },
+        {
+            "food": "ensalada capresse jitomate",
+            "type": "cena",
+            "itemID": 489
+        },
+        {
+            "food": "ensalada dont",
+            "type": "cena",
+            "itemID": 490
+        },
+        {
+            "food": "ensalada dont go",
+            "type": "cena",
+            "itemID": 491
+        },
+        {
+            "food": "fajitas pollo",
+            "type": "cena",
+            "itemID": 492
+        },
+        {
+            "food": "frijoles enteros",
+            "type": "cena",
+            "itemID": 493
+        },
+        {
+            "food": "galletas sanisimo",
+            "type": "cena",
+            "itemID": 494
+        },
+        {
+            "food": "go nuts",
+            "type": "cena",
+            "itemID": 495
+        },
+        {
+            "food": "gramos pollo",
+            "type": "cena",
+            "itemID": 496
+        },
+        {
+            "food": "gramos pollo desmenuzado",
+            "type": "cena",
+            "itemID": 497
+        },
+        {
+            "food": "gramos queso",
+            "type": "cena",
+            "itemID": 498
+        },
+        {
+            "food": "grasa arugula",
+            "type": "cena",
+            "itemID": 499
+        },
+        {
+            "food": "grasa arugula aceite",
+            "type": "cena",
+            "itemID": 500
+        },
+        {
+            "food": "griego cdas",
+            "type": "cena",
+            "itemID": 501
+        },
+        {
+            "food": "griego cdas granola",
+            "type": "cena",
+            "itemID": 502
+        },
+        {
+            "food": "huevo estrellado",
+            "type": "cena",
+            "itemID": 503
+        },
+        {
+            "food": "jitomate bola",
+            "type": "cena",
+            "itemID": 504
+        },
+        {
+            "food": "lata atun",
+            "type": "cena",
+            "itemID": 505
+        },
+        {
+            "food": "lata atun agua",
+            "type": "cena",
+            "itemID": 506
+        },
+        {
+            "food": "limon sal",
+            "type": "cena",
+            "itemID": 507
+        },
+        {
+            "food": "mb grasa",
+            "type": "cena",
+            "itemID": 508
+        },
+        {
+            "food": "mini pizzas",
+            "type": "cena",
+            "itemID": 509
+        },
+        {
+            "food": "mini pizzas mitades",
+            "type": "cena",
+            "itemID": 510
+        },
+        {
+            "food": "mitades pan",
+            "type": "cena",
+            "itemID": 511
+        },
+        {
+            "food": "mitades pan thin",
+            "type": "cena",
+            "itemID": 512
+        },
+        {
+            "food": "mozarella muy",
+            "type": "cena",
+            "itemID": 513
+        },
+        {
+            "food": "mozarella muy bajo",
+            "type": "cena",
+            "itemID": 514
+        },
+        {
+            "food": "muy bajo",
+            "type": "cena",
+            "itemID": 515
+        },
+        {
+            "food": "muy bajo grasa",
+            "type": "cena",
+            "itemID": 516
+        },
+        {
+            "food": "no carbs",
+            "type": "cena",
+            "itemID": 517
+        },
+        {
+            "food": "oliva vinagre",
+            "type": "cena",
+            "itemID": 518
+        },
+        {
+            "food": "oliva vinagre balsamico",
+            "type": "cena",
+            "itemID": 519
+        },
+        {
+            "food": "pan integral",
+            "type": "cena",
+            "itemID": 520
+        },
+        {
+            "food": "pan thin",
+            "type": "cena",
+            "itemID": 521
+        },
+        {
+            "food": "pan thin salsa",
+            "type": "cena",
+            "itemID": 522
+        },
+        {
+            "food": "paquete galletas",
+            "type": "cena",
+            "itemID": 523
+        },
+        {
+            "food": "paquete galletas sanisimo",
+            "type": "cena",
+            "itemID": 524
+        },
+        {
+            "food": "para acompanar",
+            "type": "cena",
+            "itemID": 525
+        },
+        {
+            "food": "pasta party",
+            "type": "cena",
+            "itemID": 526
+        },
+        {
+            "food": "pavito caramelizado",
+            "type": "cena",
+            "itemID": 527
+        },
+        {
+            "food": "pavo rellenos",
+            "type": "cena",
+            "itemID": 528
+        },
+        {
+            "food": "pavo rellenos aguacate",
+            "type": "cena",
+            "itemID": 529
+        },
+        {
+            "food": "pechuga pavo",
+            "type": "cena",
+            "itemID": 530
+        },
+        {
+            "food": "pescaito el",
+            "type": "cena",
+            "itemID": 531
+        },
+        {
+            "food": "pescaito el meneaito",
+            "type": "cena",
+            "itemID": 532
+        },
+        {
+            "food": "pizzas mitades",
+            "type": "cena",
+            "itemID": 533
+        },
+        {
+            "food": "pizzas mitades pan",
+            "type": "cena",
+            "itemID": 534
+        },
+        {
+            "food": "pollito fifi",
+            "type": "cena",
+            "itemID": 535
+        },
+        {
+            "food": "pollo curry",
+            "type": "cena",
+            "itemID": 536
+        },
+        {
+            "food": "pollo desmenuzado",
+            "type": "cena",
+            "itemID": 537
+        },
+        {
+            "food": "pollo desmenuzado no",
+            "type": "cena",
+            "itemID": 538
+        },
+        {
+            "food": "pollo queso",
+            "type": "cena",
+            "itemID": 539
+        },
+        {
+            "food": "pollo queso cabra",
+            "type": "cena",
+            "itemID": 540
+        },
+        {
+            "food": "queso cabra",
+            "type": "cena",
+            "itemID": 541
+        },
+        {
+            "food": "queso mozarella",
+            "type": "cena",
+            "itemID": 542
+        },
+        {
+            "food": "queso mozarella muy",
+            "type": "cena",
+            "itemID": 543
+        },
+        {
+            "food": "queso panela",
+            "type": "cena",
+            "itemID": 544
+        },
+        {
+            "food": "rebanada pan",
+            "type": "cena",
+            "itemID": 545
+        },
+        {
+            "food": "rebanada pan integral",
+            "type": "cena",
+            "itemID": 546
+        },
+        {
+            "food": "rebanada queso",
+            "type": "cena",
+            "itemID": 547
+        },
+        {
+            "food": "rebanada queso mozarella",
+            "type": "cena",
+            "itemID": 548
+        },
+        {
+            "food": "rellenos aguacate",
+            "type": "cena",
+            "itemID": 549
+        },
+        {
+            "food": "rollitos pechuga",
+            "type": "cena",
+            "itemID": 550
+        },
+        {
+            "food": "rollitos pechuga pavo",
+            "type": "cena",
+            "itemID": 551
+        },
+        {
+            "food": "salsa tomate",
+            "type": "cena",
+            "itemID": 552
+        },
+        {
+            "food": "salsa tomate rebanada",
+            "type": "cena",
+            "itemID": 553
+        },
+        {
+            "food": "sin azucar",
+            "type": "cena",
+            "itemID": 554
+        },
+        {
+            "food": "sin carbs",
+            "type": "cena",
+            "itemID": 555
+        },
+        {
+            "food": "sin grasa",
+            "type": "cena",
+            "itemID": 556
+        },
+        {
+            "food": "sin proteina",
+            "type": "cena",
+            "itemID": 557
+        },
+        {
+            "food": "sobre cama",
+            "type": "cena",
+            "itemID": 558
+        },
+        {
+            "food": "sobre cama espinacas",
+            "type": "cena",
+            "itemID": 559
+        },
+        {
+            "food": "sopa tomate",
+            "type": "cena",
+            "itemID": 560
+        },
+        {
+            "food": "sopa verduras",
+            "type": "cena",
+            "itemID": 561
+        },
+        {
+            "food": "sopa verduras 100",
+            "type": "cena",
+            "itemID": 562
+        },
+        {
+            "food": "sopa verduras pollo",
+            "type": "cena",
+            "itemID": 563
+        },
+        {
+            "food": "tazas espinaca",
+            "type": "cena",
+            "itemID": 564
+        },
+        {
+            "food": "thin salsa",
+            "type": "cena",
+            "itemID": 565
+        },
+        {
+            "food": "tomate rebanada",
+            "type": "cena",
+            "itemID": 566
+        },
+        {
+            "food": "tomate rebanada queso",
+            "type": "cena",
+            "itemID": 567
+        },
+        {
+            "food": "tortillas nopal",
+            "type": "cena",
+            "itemID": 568
+        },
+        {
+            "food": "tostadas redondas",
+            "type": "cena",
+            "itemID": 569
+        },
+        {
+            "food": "verduras 100",
+            "type": "cena",
+            "itemID": 570
+        },
+        {
+            "food": "verduras 100 gramos",
+            "type": "cena",
+            "itemID": 571
+        },
+        {
+            "food": "verduras pollo",
+            "type": "cena",
+            "itemID": 572
+        },
+        {
+            "food": "verduras vapor",
+            "type": "cena",
+            "itemID": 573
+        },
+        {
+            "food": "vinagre balsamico",
+            "type": "cena",
+            "itemID": 574
+        },
+        {
+            "food": "wrap pollo",
+            "type": "cena",
+            "itemID": 575
+        },
+        {
+            "food": "wrap pollo queso",
+            "type": "cena",
+            "itemID": 576
+        },
+        {
+            "food": "yakimeshi coliflor",
+            "type": "cena",
+            "itemID": 577
+        },
+        {
+            "food": "yogurt griego",
+            "type": "cena",
+            "itemID": 578
+        },
+        {
+            "food": "yogurt griego cdas",
+            "type": "cena",
+            "itemID": 579
+        }
+]
