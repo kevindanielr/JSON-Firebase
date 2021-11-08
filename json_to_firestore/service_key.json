@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "nutrition-project-harrison",
-  "private_key_id": "86f5d333fa632a3c03ebf40752e3adaf61f9f178",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxs1LaQGRYa6BD\n3LYPDBcSrCHrN++SAEh4Rt0rx4DVn27/0KbTniDmdR68IskIeD9bgQ/8jTxhaHAk\nTOJD6S+CJ4Kjprso9Pm6GbI3kUug/HBZFrWsyAaA25h4t+q9GtepZV1Qt4DI9p8q\n7q6Jp6iyIZgBefYW86DSgsIe438wDyVALYyJpx1iL94wHmLU2hf2vQd/tuIz1Bfj\nVrA47QEzIKMC45lOUBCCy+73GrG43vga9AFiNJEa2L3om7ZBGfwS2a5RdQImEQld\nPmopyLA/xz4iP2beihEkzxZHXkvxCvfWzCSqCtCG13YqxNfJYEN7Nzdt4ocScTkT\nbXnEfaJLAgMBAAECggEAEEud/ZapvQlYP9uLCck1inL6L0xIrgOpoaH59oxLzmCE\nTiAvqY3sKBtgZKdEoSq0a1XkBehbu6EB+5+IoOqkKSl/YODRc+7hwa+ejgWca621\nOG433cQqrda1XjNGFZj9uDKBQqgj6V84TGMT4rAFwm6zNkYdYOXEKdnE0blR+LGb\nqn2u7F/desKaOg1g9PXlJGiRR8EHla2R98IQH/rWw2NC1IChRfSljHiCYxvpxfuh\n4z7lreolP5k6U48DO3XHh6hqtkua+/pSY3cVpdtVHSpjJpXsNnRIg/UtrChR/phX\n60etYJimvKfYXCLO1Hbj2QDSaRe5UFl4V6q167aPaQKBgQDjFe2lBUhUtZafjlvU\nW4Y/e/pTyoy70AAWswSm/CIsWD9ZDkQhVPurNTNzYtPkTGnBsS6SROI+qIVZ/NXg\nSYs3UU0U+7+VjqZ79RP5YWVcP9p0kbtTE/tnXFo4/ABNEJzZYXE2ZqPqnDev1Z+c\n7uB+XYiJBfu6AI6HahGfm6VREwKBgQDIU6OOZujKKrehhzBy7X7V7p11CoXL/2gU\nTP5x2oBpWFdHrfpNQoWGHnWxup16VCc8x4zeXT7gcm7pPKgpbCqEbizcaKEkrWW5\nK4fCI15d6SDkIcSgkm3ShEPPAMfHRvXo+QoNy2tp0203/Slc/YozNHi2+LJeSVlG\nhH0sY5DI6QKBgDauYBQdioZDV6rCF+CxzUjaLLQikPLkqjDNGLCxA/WTpmVmZwdz\ntEpMvD/rq0RNFiY66RD1n1khMUMy+7lPXEOMwzfrSv3TZMlygUXKqyKkiZEKSoY9\nyIriFSOlotjryCkcKqvD2XKz/UDM+utKJiqnkSoVk8D9Q1TeOLIrQ4qbAoGAJ34V\nqGUxT2nMedOlAYNAlfxMnl5MskLPyfDD2L4ywpHf4wmxZrnOiPpISZl4oj0k3x6X\n7t6DHsxwgRqsLD5ew2zU+z7FRe3JOBAU23kNiYYELfVaRi2X6QCaPZzxxZ9/q0Yt\nbTrFGj/MMFWAagyxyhZ2FdxBjcT4DKbh5nZafMECgYEAz+Su41GNgrLv+VkeT4aV\nM6tBlggJlqUHrltRJVQww0zXoGAb5LhVjiL6UKjRfXN9UyLzWASjXqP9YwwHPJYl\n8a+MymRlB6NjvXPi1NFWxb7fvjWaITXUbrg/V6ZR2tQC/gkvQO8jh1y9ZB4KOfQD\n67xQZ3zEsPghVuDE96msK/0=\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-6t6es@nutrition-project-harrison.iam.gserviceaccount.com",
-  "client_id": "102738968617234519778",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-6t6es%40nutrition-project-harrison.iam.gserviceaccount.com"
-}
+
